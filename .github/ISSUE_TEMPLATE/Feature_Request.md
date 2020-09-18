@@ -12,7 +12,7 @@ to work on.
   understand what's going on and fix the issue. We appreciate bugs filed and PRs
   submitted!
 
-* If you're issue is regarding one of the query APIs (`getByText`
+* If your issue is regarding one of the query APIs (`getByText`
   `getByLabelText`, etc), then please file it on the `dom-testing-library`
   repository instead. If you file it here it will be closed. Thanks :)
 
